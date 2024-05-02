@@ -1,9 +1,9 @@
 <div align="center">
   <img src="https://i.imgur.com/okOqgaV.png" />
-  <h3 align="center">The Strongest Batch</h3>
+  <p><sub>Репозиторий для всего, что используеться на TSB.</sub></p>
 </div>
 
-Репозиторий для всего, что используеться на TSB.
+
 
 ## ✨ Ссылки
 
