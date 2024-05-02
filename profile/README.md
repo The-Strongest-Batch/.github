@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/D6xOHpJ.png" width="128" />
+  <img src="https://i.imgur.com/okOqgaV.png" />
   <h3 align="center">The Strongest Batch</h3>
 </div>
 
